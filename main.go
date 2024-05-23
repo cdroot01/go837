@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("go837 work")
+	fmt.Println("go837 work | v2")
 }
